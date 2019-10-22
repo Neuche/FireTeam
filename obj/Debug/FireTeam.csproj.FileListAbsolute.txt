@@ -1,0 +1,43 @@
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\FireTeam.exe.config
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\FireTeam.exe
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\FireTeam.pdb
+C:\Users\User\source\repos\FireTeam\FireTeam\obj\Debug\FireTeam.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FireTeam\FireTeam\obj\Debug\FireTeam.Properties.Resources.resources
+C:\Users\User\source\repos\FireTeam\FireTeam\obj\Debug\FireTeam.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FireTeam\FireTeam\obj\Debug\FireTeam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FireTeam\FireTeam\obj\Debug\FireTeam.exe
+C:\Users\User\source\repos\FireTeam\FireTeam\obj\Debug\FireTeam.pdb
+C:\Users\User\source\repos\FireTeam\FireTeam\obj\Debug\FireTeam.CrearCuenta.resources
+D:\carpetas Datos\Descargas\Nueva carpeta\FireTeam\FireTeam\obj\Debug\FireTeam.csprojAssemblyReference.cache
+D:\carpetas Datos\Descargas\Nueva carpeta\FireTeam\FireTeam\obj\Debug\FireTeam.CrearCuenta.resources
+D:\carpetas Datos\Descargas\Nueva carpeta\FireTeam\FireTeam\obj\Debug\FireTeam.InicioSesion.resources
+D:\carpetas Datos\Descargas\Nueva carpeta\FireTeam\FireTeam\obj\Debug\FireTeam.Chat.resources
+D:\carpetas Datos\Descargas\Nueva carpeta\FireTeam\FireTeam\obj\Debug\FireTeam.Properties.Resources.resources
+D:\carpetas Datos\Descargas\Nueva carpeta\FireTeam\FireTeam\obj\Debug\FireTeam.csproj.GenerateResource.cache
+D:\carpetas Datos\Descargas\Nueva carpeta\FireTeam\FireTeam\obj\Debug\FireTeam.csproj.CoreCompileInputs.cache
+D:\carpetas Datos\Descargas\Nueva carpeta\FireTeam\FireTeam\obj\Debug\FireTeam.exe
+D:\carpetas Datos\Descargas\Nueva carpeta\FireTeam\FireTeam\obj\Debug\FireTeam.pdb
+C:\Users\User\source\repos\FireTeam\FireTeam\obj\Debug\FireTeam.InicioSesion1.resources
+C:\Users\User\source\repos\FireTeam\FireTeam\obj\Debug\FireTeam.googleM.resources
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\AjaxMin.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\GMap.NET.Core.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\User\source\repos\FireTeam\FireTeam\obj\Debug\FireTeam.csproj.CopyComplete
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\obj\Debug\FireTeam.Form1.resources
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\CsvHelper.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\System.ValueTuple.dll
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\CsvHelper.xml
+C:\Users\User\source\repos\FireTeam\FireTeam\bin\Debug\System.ValueTuple.xml
